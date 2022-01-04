@@ -6,12 +6,10 @@ https://okkotv-live.cdnvideo.ru/channel/Pervii_Kanal_OTT_HD.m3u8
 http://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
 #EXTINF:-1,Рен ТВ HD
 https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT.m3u8
-#EXTINF:-1,СТС HD
-http://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT.m3u8
-#EXTINF:-1,Пятый канал
-https://okkotv-live.cdnvideo.ru/channel/5_OTT.m3u8
 #EXTINF:-1,Россия 24
 https://okkotv-live.cdnvideo.ru/channel/Russia24.m3u8
+#EXTINF:-1,Пятый канал
+https://okkotv-live.cdnvideo.ru/channel/5_OTT.m3u8
 #EXTINF:-1,Россия Культура
 https://okkotv-live.cdnvideo.ru/channel/Russia_K_SD.m3u8
 #EXTINF:-1,СПАС
@@ -30,6 +28,8 @@ https://okkotv-live.cdnvideo.ru/channel/Mir_OTT.m3u8
 https://okkotv-live.cdnvideo.ru/channel/MuzTV.m3u8
 #EXTINF:-1,Известия
 https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2.m3u8
+#EXTINF:-1,СТС HD
+http://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT.m3u8
 #EXTINF:-1,СТС Love
 http://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
 #EXTINF:-1,СТС Kids HD
