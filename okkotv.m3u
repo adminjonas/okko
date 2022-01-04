@@ -58,7 +58,7 @@ https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD.m3u8
 #EXTINF:-1,A1 HD
 https://okkotv-live.cdnvideo.ru/channel/A1_HD/720p.m3u8
-#EXTINF:-1,A2 HD tele.gs/IPTVIPTV1
+#EXTINF:-1,A2 HD 
 https://okkotv-live.cdnvideo.ru/channel/A2_HD/720p.m3u8
 #EXTINF:-1,FOX HD
 https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
@@ -70,13 +70,13 @@ http://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
 #EXTINF:-1,Black
 https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
-#EXTINF:-1,Феникс Плюс
+#EXTINF:-1,Феникс плюс кино
 https://okkotv-live.cdnvideo.ru/channel/Phoenix.m3u8
 #EXTINF:-1,National Geographic HD
 https://okkotv-live.cdnvideo.ru/channel/NGC_HD.m3u8
 #EXTINF:-1,Nat Geo Wild FHD
 https://okkotv-live.cdnvideo.ru/channel/NGC_Wild_HD.m3u8
-#EXTINF:-1,Калейдоскоп
+#EXTINF:-1,Калейдоскоп ТВ
 https://okkotv-live.cdnvideo.ru/channel/Kaleidoskop.m3u8
 #EXTINF:-1,Дикий
 http://okkotv-live.cdnvideo.ru/channel/Dikiy.m3u8
@@ -84,7 +84,7 @@ http://okkotv-live.cdnvideo.ru/channel/Dikiy.m3u8
 http://okkotv-live.cdnvideo.ru/channel/Dikaya_Ohota_HD.m3u8
 #EXTINF:-1,Дикая рыбалка HD
 http://okkotv-live.cdnvideo.ru/channel/Dikaya_Rybalka_HD.m3u8
-#EXTINF:-1,Disney канал
+#EXTINF:-1,Канал Disney
 https://okkotv-live.cdnvideo.ru/channel/Disney.m3u8
 #EXTINF:-1,Baby TV
 https://okkotv-live.cdnvideo.ru/channel/BabyTV/480p.m3u8
