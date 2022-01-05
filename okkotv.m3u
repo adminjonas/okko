@@ -84,7 +84,7 @@ http://okkotv-live.cdnvideo.ru/channel/Dikiy.m3u8
 http://okkotv-live.cdnvideo.ru/channel/Dikaya_Ohota_HD.m3u8
 #EXTINF:-1,Дикая рыбалка HD
 http://okkotv-live.cdnvideo.ru/channel/Dikaya_Rybalka_HD.m3u8
-#EXTINF:-1,Канал Disney
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3051.png",Канал Disney
 https://okkotv-live.cdnvideo.ru/channel/Disney.m3u8
 #EXTINF:-1,Baby TV
 https://okkotv-live.cdnvideo.ru/channel/BabyTV/480p.m3u8
