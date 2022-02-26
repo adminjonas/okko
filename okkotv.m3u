@@ -1,5 +1,47 @@
 #EXTM3U  url-tvg="https://iptvx.one/epg/epg.xml.gz"
 
+#EXTINF:-1, ПЕРВЫЙ КАНАЛ
+http://185.252.249.83:8000/play/a01n
+#EXTINF:-1, РОССИЯ 1
+http://185.252.249.83:8000/play/a01u
+#EXTINF:-1, НТВ
+http://185.252.249.83:8000/play/a01p
+#EXTINF:-1, РОССИЯ 24
+http://185.252.249.83:8000/play/a01v
+#EXTINF:-1, ПЯТЫЙ КАНАЛ
+http://185.252.249.83:8000/play/a01q
+#EXTINF:-1, РОССИЯ К
+http://185.252.249.83:8000/play/a01r
+#EXTINF:-1, КАРУСЕЛЬ
+http://185.252.249.83:8000/play/a01s
+#EXTINF:-1, ОТР
+http://185.252.249.83:8000/play/a01w
+#EXTINF:-1, ТВ Центр
+http://185.252.249.83:8000/play/a01t
+#EXTINF:-1, РЕН ТВ
+http://185.252.249.83:8000/play/a014
+#EXTINF:-1, Спас
+http://185.252.249.83:8000/play/a015
+#EXTINF:-1, СТС
+http://185.252.249.83:8000/play/a016
+#EXTINF:-1, Домашний
+http://185.252.249.83:8000/play/a017
+#EXTINF:-1,15 ТВ3
+http://185.252.249.83:8000/play/a018
+#EXTINF:-1, Пятница
+http://185.252.249.83:8000/play/a019
+#EXTINF:-1, Звезда
+http://185.252.249.83:8000/play/a01a
+#EXTINF:-1, МИР
+http://185.252.249.83:8000/play/a01b
+#EXTINF:-1, ТНТ
+http://185.252.249.83:8000/play/a01c
+#EXTINF:-1, МУЗ ТВ
+http://185.252.249.83:8000/play/a01d
+#EXTINF:-1, МАТЧ!
+http://185.252.249.83:8000/play/a01o
+
+
 #EXTINF:-1 ,Россия 1 HD
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 ,Россия 24
