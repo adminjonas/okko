@@ -1,16 +1,16 @@
 #EXTM3U  url-tvg="https://iptvx.one/epg/epg.xml.gz"
 
-#EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
+#EXTINF:-1 ,Piervyj
 http://185.252.249.83:8000/play/a01n
-#EXTINF:-1 ,РОССИЯ 1
+#EXTINF:-1 ,Russia 1
 http://185.252.249.83:8000/play/a01u
 #EXTINF:-1 ,НТВ
 http://185.252.249.83:8000/play/a01p
-#EXTINF:-1 ,РОССИЯ 24
+#EXTINF:-1 ,Russia 24
 http://185.252.249.83:8000/play/a01v
 #EXTINF:-1 ,ПЯТЫЙ КАНАЛ
 http://185.252.249.83:8000/play/a01q
-#EXTINF:-1 ,РОССИЯ К
+#EXTINF:-1 ,Russia К
 http://185.252.249.83:8000/play/a01r
 #EXTINF:-1 ,КАРУСЕЛЬ
 http://185.252.249.83:8000/play/a01s
@@ -28,7 +28,7 @@ http://185.252.249.83:8000/play/a017
 http://185.252.249.83:8000/play/a018
 #EXTINF:-1 ,Пятница
 http://185.252.249.83:8000/play/a019
-#EXTINF:-1 ,Звезда
+#EXTINF:-1 ,Zviezda
 http://185.252.249.83:8000/play/a01a
 #EXTINF:-1 ,МИР
 http://185.252.249.83:8000/play/a01b
@@ -38,15 +38,15 @@ http://185.252.249.83:8000/play/a01c
 http://185.252.249.83:8000/play/a01d
 #EXTINF:-1 ,МАТЧ!
 http://185.252.249.83:8000/play/a01o
-#EXTINF:-1 ,Россия 1 HD
+#EXTINF:-1 ,Russia 1 HD
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 ,Россия 24
+#EXTINF:-1 ,Russia 24
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
-#EXTINF:-1 ,Россия К
+#EXTINF:-1 ,Russia К
 http://uiptv.do.am/1ufc/000000005/playlist.m3u8
-#EXTINF:-1 ,Россия К
+#EXTINF:-1 ,Russia К
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist_2.m3u8
-#EXTINF:-1 ,Россия РТР
+#EXTINF:-1 ,Russia РТР
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/playlist_3.m3u8
 #EXTINF:-1 ,Известия FHD
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
@@ -56,7 +56,7 @@ https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:-1 ,СТС Love
 http://46.46.127.13:8306
-#EXTINF:-1 ,Звезда
+#EXTINF:-1 ,Zviezda
 http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
 #EXTINF:-1 ,Настоящее время
 http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
@@ -228,7 +228,7 @@ http://ott.inmart.tv:8081/54/index.m3u8
 http://ott.inmart.tv:8081/17/index.m3u8
 #EXTINF:-1 ,6 ТВ Горловка
 http://ott.inmart.tv:8081/223/index.m3u8
-#EXTINF:-1 ,Новороссия ТВ
+#EXTINF:-1 ,НовоRussia ТВ
 http://ott.inmart.tv:8081/19/index.m3u8
 #EXTINF:-1 ,СТВ
 http://37.17.12.124:8901/play/a00a
@@ -746,7 +746,7 @@ https://sc.id-tv.kz/1hd_34_35.m3u8
 http://www.sonus.fm:1935/public/stream_720p/chunklist_w514335426.m3u8
 #EXTINF:-1 ,Первый Музыкальный BY
 http://rtmp.one.by:1200
-#EXTINF:-1 ,Первый Музыкальный BY Россия HD
+#EXTINF:-1 ,Первый Музыкальный BY Russia HD
 http://rtmp.one.by:2300
 #EXTINF:-1 ,Радио ХИТ (Орск)
 http://hithd.camsh.orsk.ru/hls/hithd.m3u8
