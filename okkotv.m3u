@@ -1,20 +1,10 @@
 
 #EXTM3U  url-tvg="https://iptvx.one/epg/epg.xml.gz"
 
-#EXTINF:-1 ,8 канал HD Беларусь
-http://80.94.225.126:8080/8kanalHD/mono.m3u8
 #EXTINF:-1 ,Action TV 1000
 http://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 ,Amedia 1
-http://80.237.96.75:9090/stream/channelid/1001278483?ticket=E719E88A02F65FA34475BA99877177832143BFD1&profile=pass
 #EXTINF:-1 ,.black
 http://st1.astra-uk.ru:81/cc719f0f30037279d03bf2fd542a8088/playlist.m3u8
-#EXTINF:-1 ,Amedia 1
-http://80.237.96.73:9090/stream/channelid/1001278483?ticket=4FDF0A5D00E9535CC38D59906F1DE71029C862AD&profile=pass
-#EXTINF:-1 ,Amedia 1
-http://80.237.96.73:9090/stream/channelid/1001278483?ticket=2EACABB35381E5BEFB596362CC1D6DE396C76505&profile=pass
-#EXTINF:-1 ,Amedia 1
-http://80.237.96.73:9090/stream/channelid/1001278483?ticket=7413F5A4D64CA4CD0293E4CC0016033EF5552B7C&profile=pass
 #EXTINF:-1 ,Amedia 1
 http://st1.astra-uk.ru:81/763950971c8c6d8df8a87a1e752799a9/playlist.m3u8?ts
 #EXTINF:-1 ,Amedia 1
@@ -31,26 +21,10 @@ http://st1.astra-uk.ru:81/0eb5fb21bfa6734a7347087a6fb20fd4/playlist.m3u8
 http://st1.astra-uk.ru:81/0eb5fb21bfa6734a7347087a6fb20fd4/playlist.m3u8?ts
 #EXTINF:-1 ,Amedia Hit hd
 https://sc.id-tv.kz/amedia_hit_hd.m3u8
-#EXTINF:-1 ,Amedia Hit HD
-http://80.237.96.75:9090/stream/channelid/1924643225?ticket=BF0DBA5A390BF04B504195D0D939E887B2D72264&profile=pass
-#EXTINF:-1 ,Amedia Hit HD
-http://80.237.96.73:9090/stream/channelid/1924643225?ticket=BFD1656F16938621C575CC72AFD21747531A8EAC&profile=pass
-#EXTINF:-1 ,Amedia Hit HD
-http://80.237.96.73:9090/stream/channelid/1924643225?ticket=73AD6E6CC4A1F051F4C591FB6DA286862D7E23CE&profile=pass
-#EXTINF:-1 ,Amedia Hit HD
-http://80.237.96.73:9090/stream/channelid/1924643225?ticket=0F975698FD441D119037341754390C2A280E0BC4&profile=pass
 #EXTINF:-1 ,amedia pr hd
 https://sc.id-tv.kz/amedia_pr_hd_34_35.m3u8
 #EXTINF:-1 ,Amedia Premium
 http://st1.astra-uk.ru:81/d1ef78458e2a8129f4c34a9dd9375843/playlist.m3u8
-#EXTINF:-1 ,Amedia Premium HD
-http://80.237.96.75:9090/stream/channelid/2115150252?ticket=37B384C030C14D81A664AA747D9FB98E8CA1D2F1&profile=pass
-#EXTINF:-1 ,Amedia Premium HD
-http://80.237.96.73:9090/stream/channelid/2115150252?ticket=AA5E8D77B296885828680BE6C2D36939501D2DCE&profile=pass
-#EXTINF:-1 ,Amedia Premium HD
-http://80.237.96.73:9090/stream/channelid/2115150252?ticket=053DE399C87C12CEC6C89BA9CE4D06E8A33F473D&profile=pass
-#EXTINF:-1 ,Amedia Premium HD
-http://80.237.96.73:9090/stream/channelid/2115150252?ticket=928263F444C078C6B954F1DA488E3E3CC1675C57&profile=pass
 #EXTINF:-1 ,Amedia Premium HD
 http://st1.astra-uk.ru:81/22773eeb20de8c8bdf0fd5580190356b/playlist.m3u8
 #EXTINF:-1 ,Amedia Premium HD
@@ -131,90 +105,26 @@ https://v2.catcast.tv/content/38821/index.m3u8
 http://85.192.10.131/hls/Kino24Ru/playlist.m3u8
 #EXTINF:-1 ,Kinouzhas hd
 https://sc.id-tv.kz:443/Kinouzhas_hd_34_35.m3u8
-#EXTINF:-1 ,MKTV УЖАСЫ
-https://autopilot.catcast.tv/content/41023/index.m3u8
 #EXTINF:-1 ,MKTV ХИТ HD
 https://hls.goodgame.ru/hls/153640.m3u8
 #EXTINF:-1 ,MKTV ХИТ HD
 https://hlss.goodgame.ru/hls/153640.m3u8
-#EXTINF:-1 ,Paramount Channel
-http://80.237.96.73:9090/stream/channelid/1180995596?ticket=01DC8C698E0AA3031221AE3FAE80766CA646DA9B&profile=pass
-#EXTINF:-1 ,Paramount Channel
-http://80.237.96.73:9090/stream/channelid/1180995596?ticket=348ECAF31331566CB15CCD4AA27273275C203BB4&profile=pass
-#EXTINF:-1 ,Paramount Channel
-http://80.237.96.73:9090/stream/channelid/1180995596?ticket=3D4F0B29587FB745727B489CE33DC8F875B14B1B&profile=pass
-#EXTINF:-1 ,Paramount Channel
-http://st1.astra-uk.ru:81/955b1a7c3b071d81f458e4d8914df9e1/playlist.m3u8
-#EXTINF:-1 ,Paramount Comedy
-http://80.237.96.73:9090/stream/channelid/1923019538?ticket=ED353E2B066F392AAAF706DE02BCAE9BD2E6D405&profile=pass
-#EXTINF:-1 ,Paramount Comedy
-http://80.237.96.73:9090/stream/channelid/1923019538?ticket=244084C158B97EAAE788A13D8A49C126E1322138&profile=pass
 #EXTINF:-1 ,Paramount Comedy
 http://st1.astra-uk.ru:81/f2bb83588a99a3902021c7e4f455652f/playlist.m3u8
 #EXTINF:-1 ,perv-balt-in
 http://185.44.75.203:38171/play/a00w/index.m3u8
-#EXTINF:-1 ,Plan B
-http://80.237.96.75:9090/stream/channelid/1168870168?ticket=D7CB66EAF91E9014F61C8F22BD870AE2E9FCB576&profile=pass
-#EXTINF:-1 ,Plan B
-http://80.237.96.73:9090/stream/channelid/1168870168?ticket=073DADF3F074AE8C51A802BE94E0F69134B17223&profile=pass
-#EXTINF:-1 ,Plan B
-http://80.237.96.73:9090/stream/channelid/1168870168?ticket=CBBC3F2B571863BD6B3440291230971855F1806F&profile=pass
-#EXTINF:-1 ,Plan B
-http://80.237.96.73:9090/stream/channelid/1168870168?ticket=390835AF673723A63B1538ABBBC594CA1CE1FC71&profile=pass
-#EXTINF:-1 ,Plan B HD
-http://80.237.96.75:9090/stream/channelid/1869913827?ticket=8BAFD5C6CB5945906E1B5A29933A157D6E9468FE&profile=pass
-#EXTINF:-1 ,Plan B HD
-http://80.237.96.73:9090/stream/channelid/1869913827?ticket=17D167709551E2913DDA8D8AC698FD7A6BC22043&profile=pass
-#EXTINF:-1 ,Plan B HD
-http://80.237.96.73:9090/stream/channelid/1869913827?ticket=BE45F64280873B1D1527FA8B2F0B8354557C0CE7&profile=pass
-#EXTINF:-1 ,Plan B HD
-http://80.237.96.73:9090/stream/channelid/1869913827?ticket=05E551BC868CEF805E61A342855B15A575827E6F&profile=pass
 #EXTINF:-1 ,PRO100 TV
 http://85.192.10.131/hls/Pro100tvRu/playlist.m3u8
 #EXTINF:-1 ,Retro
 http://46.174.83.66/Retro/index.m3u8?em9uYS1pcHR2LnJ1
 #EXTINF:-1 ,Sci-Fi
 http://st1.astra-uk.ru:81/4a5d4b8543f34cadc7eb9ea8fcbf88a0/playlist.m3u8
-#EXTINF:-1 ,Shant Serial
-http://80.237.96.75:9090/stream/channelid/860180779?ticket=98922A811EC7F522E384AA106766763F96B1A5E3&profile=pass
-#EXTINF:-1 ,Shant Serial
-http://80.237.96.75:9090/stream/channelid/1009396173?ticket=4CA30D07EDBCC7C4E4E8EA5515B1A3AA63EAEC90&profile=pass
-#EXTINF:-1 ,Shant Serial
-http://80.237.96.73:9090/stream/channelid/860180779?ticket=B56ABA83327BAC037614B8213ECF49DEE677D11E&profile=pass
-#EXTINF:-1 ,Shant Serial
-http://80.237.96.73:9090/stream/channelid/860180779?ticket=23121CD8B55BBB8C8913109326E488491DD86DFD&profile=pass
-#EXTINF:-1 ,Shant Serial
-http://80.237.96.73:9090/stream/channelid/1009396173?ticket=B510F69676909A9E7630E3B1815D8429A0B77B0C&profile=pass
-#EXTINF:-1 ,Shant Serial
-http://80.237.96.73:9090/stream/channelid/1009396173?ticket=0B3F6977EA0BC0AFE6F2C623ED8B6C27E0B40C4F&profile=pass
-#EXTINF:-1 ,Shant Serial
-http://80.237.96.73:9090/stream/channelid/860180779?ticket=3FA4E0519E597603753ACBFED46F3BAEBE429DBE&profile=pass
-#EXTINF:-1 ,Shant Serial
-http://80.237.96.73:9090/stream/channelid/1009396173?ticket=6DA066955AE24A57C25182860DCC229B88266543&profile=pass
-#EXTINF:-1 ,Shop&Show
-http://80.237.96.75:9090/stream/channelid/86025871?ticket=7D736FF5D25D4817691CD0E87E01F324653691CB&profile=pass
 #EXTINF:-1 ,Sony Channel Russia
 http://st1.astra-uk.ru:81/5c7fde5aefd10ef596744fd56685005b/playlist.m3u8
 #EXTINF:-1 ,Sony Sci-Fi
 http://st1.astra-uk.ru:81/4a5d4b8543f34cadc7eb9ea8fcbf88a0/playlist.m3u8?ts
 #EXTINF:-1 ,Sony Turbo
 http://st1.astra-uk.ru:81/cc719f0f30037279d03bf2fd542a8088/playlist.m3u8?ts
-#EXTINF:-1 ,Star Cinema
-http://80.237.96.75:9090/stream/channelid/420449714?ticket=A2430100006CD59A8EAD2F1AEB3395E594AE6CDB&profile=pass
-#EXTINF:-1 ,Star Cinema
-http://80.237.96.73:9090/stream/channelid/420449714?ticket=058407520C9C61A713F8E53098EDB6875BEB7377&profile=pass
-#EXTINF:-1 ,Star Cinema
-http://80.237.96.73:9090/stream/channelid/420449714?ticket=F7D3C623DC8A0B177C55DA9BC8E3BA0D5EB868A9&profile=pass
-#EXTINF:-1 ,Star Cinema
-http://80.237.96.73:9090/stream/channelid/420449714?ticket=68CCA2583217BD71FF5EF776BF209CAF585D8B5E&profile=pass
-#EXTINF:-1 ,Star Family
-http://80.237.96.75:9090/stream/channelid/1187891001?ticket=F205675D8A136136457A177270C9D3F379856767&profile=pass
-#EXTINF:-1 ,Star Family
-http://80.237.96.73:9090/stream/channelid/1187891001?ticket=3B1590A33D9286F50D453E85C7A2935417CD014E&profile=pass
-#EXTINF:-1 ,Star Family
-http://80.237.96.73:9090/stream/channelid/1187891001?ticket=C75658F9DE0B03859AE2976A5953A51F2C6E8517&profile=pass
-#EXTINF:-1 ,Star Family
-http://80.237.96.73:9090/stream/channelid/1187891001?ticket=DCDD9EF8A0BB80AFAEA967737BF929F3F91CC3BC&profile=pass
 #EXTINF:-1 ,Subbota
 http://46.174.83.66/Subbota/mpegts
 #EXTINF:-1 ,TV 1000
@@ -227,18 +137,12 @@ http://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
 https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,TV 1000 Action
 http://st1.astra-uk.ru:81/98eef914c03e80b0e49807a177415ffc/playlist.m3u8
-#EXTINF:-1 ,TV 1000 HD
-http://ott.pizda.fun/TV_1000_HD/mpegts?token=3eJuZKjWcPf943
-#EXTINF:-1 ,TV 1000 World Kino
-http://ott.pizda.fun/TV_1000_World_Kino/mpegts?token=3eJuZKjWcPf943
 #EXTINF:-1 ,TV 1000 Русское кино
 https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,TV 1000 Русское Кино
 http://st1.astra-uk.ru:81/4bad64e7a245802f7b36d7a6d885aac3/playlist.m3u8
 #EXTINF:-1 ,TV 3
 http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
-#EXTINF:-1 ,TV Action 1000
-http://ott.pizda.fun/TV1000_Action_HD/mpegts?token=3eJuZKjWcPf943
 #EXTINF:-1 ,TV1000
 http://str1.tvcom.uz/65/video.m3u8?token=d14f8f0a6ae6dea981cdf7bebe199fa7
 #EXTINF:-1 ,TV1000 Русское Кино
@@ -251,48 +155,18 @@ http://46.174.83.66/TV3/mpegts
 http://46.174.83.66/TV3/index.m3u8?em9uYS1pcHR2LnJ1
 #EXTINF:-1 ,VIO COMEDY
 http://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 ,ViP Comedy
-http://80.237.96.75:9090/stream/channelid/246227282?ticket=90A88452082D32D84B72B1709CF5B0BCF16E57B8&profile=pass
-#EXTINF:-1 ,ViP Comedy
-http://80.237.96.73:9090/stream/channelid/246227282?ticket=66E85AFE5FE961718FDB27D1E3123FDB244FB562&profile=pass
-#EXTINF:-1 ,ViP Comedy
-http://80.237.96.73:9090/stream/channelid/246227282?ticket=FDECAE290CC2B240EE7CC8430C417B58C7A61458&profile=pass
-#EXTINF:-1 ,ViP Comedy
-http://80.237.96.73:9090/stream/channelid/246227282?ticket=6C74A65CDA71CD82FC4E1FDE467F0A414194F0DC&profile=pass
 #EXTINF:-1 ,VIP Comedy
 https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,VIP Comedy
 http://st1.astra-uk.ru:81/02e12402a06c27f66a9a083799f21d0d/playlist.m3u8
-#EXTINF:-1 ,VIP Comedy
-http://ott.pizda.fun/VIP_Comedy_HD/mpegts?token=3eJuZKjWcPf943
-#EXTINF:-1 ,ViP Megahit
-http://80.237.96.75:9090/stream/channelid/2076805288?ticket=FDFBCE28BED614830022DAB0A2AD30C39A09866B&profile=pass
-#EXTINF:-1 ,ViP Megahit
-http://80.237.96.73:9090/stream/channelid/2076805288?ticket=72EC13A1BEF5BDF4E80D2CA48B4CDC014E10F758&profile=pass
-#EXTINF:-1 ,ViP Megahit
-http://80.237.96.73:9090/stream/channelid/2076805288?ticket=7884AC21EF6A6A3E16012C3EA79006D29C9A09B7&profile=pass
-#EXTINF:-1 ,ViP Megahit
-http://80.237.96.73:9090/stream/channelid/2076805288?ticket=298B9B317BB12FAFE5298C8642ECF71E66E7BB27&profile=pass
 #EXTINF:-1 ,VIP Megahit
 https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 ,VIP Megahit
-http://ott.pizda.fun/VIP_Megahit_HD/mpegts?token=3eJuZKjWcPf943
 #EXTINF:-1 ,VIP MEGAHIT
 http://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 ,ViP Premiere
-http://80.237.96.75:9090/stream/channelid/232295692?ticket=FCB13F4851F7610320D5AC5C6C7E2E5D582BF256&profile=pass
-#EXTINF:-1 ,ViP Premiere
-http://80.237.96.73:9090/stream/channelid/232295692?ticket=31851ED3665F09FCA43FD6E03B91255F7C4CE4D8&profile=pass
-#EXTINF:-1 ,ViP Premiere
-http://80.237.96.73:9090/stream/channelid/232295692?ticket=28C167B3DDC3CBDD4CB2AA752DA277641BE14EEA&profile=pass
-#EXTINF:-1 ,ViP Premiere
-http://80.237.96.73:9090/stream/channelid/232295692?ticket=4B750755DA6CA49A0E47E3F310F30A5D099C5A62&profile=pass
 #EXTINF:-1 ,VIP Premiere
 https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,VIP Premiere
 http://st1.astra-uk.ru:81/8bb468f1962686f6f2f32317923bc883/playlist.m3u8
-#EXTINF:-1 ,VIP PREMIERE
-http://ott.pizda.fun/VIP_Premiere_HD/mpegts?token=3eJuZKjWcPf943
 #EXTINF:-1 ,VIP PREMIERE
 http://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,VIP premiere HD
@@ -317,20 +191,8 @@ http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist
 http://st1.astra-uk.ru:81/1c56619dfb1f30407273d31bce1ec553/playlist.m3u8
 #EXTINF:-1 ,Время
 https://sc.id-tv.kz:443/Vremya_36_37.m3u8?token=iptv.org.ua
-#EXTINF:-1 ,Детское кино International
-https://autopilot.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 ,Дом кино
 http://st1.astra-uk.ru:81/7bfe4cf6278ff80748c9d021cf7144d8/playlist.m3u8
-#EXTINF:-1 ,Дом Кино
-http://80.237.96.75:9090/stream/channelid/50790669?ticket=4A4905DC71BF5BF536D6B210ABC294AE81809EB6&profile=pass
-#EXTINF:-1 ,Дом Кино
-http://80.237.96.73:9090/stream/channelid/50790669?ticket=862D79E18A1686F7A4F0EC8B4BA0C912376D92EE&profile=pass
-#EXTINF:-1 ,Дом Кино
-http://80.237.96.73:9090/stream/channelid/50790669?ticket=9E72B11B36D0459D07B2B41883C6F2EB1A7C8922&profile=pass
-#EXTINF:-1 ,Дом Кино
-http://80.237.96.73:9090/stream/channelid/50790669?ticket=6BCCDBCB6F46D027B020344B203A8E4A9FD5F549&profile=pass
-#EXTINF:-1 ,Дом Кино
-http://80.237.96.66:9090/stream/channelid/50790669?ticket=3B08EDB6E09AEC0B592815BA71A829D09AFA6DE8&profile=pass
 #EXTINF:-1 ,Дом Кино
 http://str1.tvcom.uz/61/video.m3u8?token=d14f8f0a6ae6dea981cdf7bebe199fa7
 #EXTINF:-1 ,Дом Кино
@@ -341,40 +203,14 @@ http://st1.astra-uk.ru:81/7bfe4cf6278ff80748c9d021cf7144d8/playlist.m3u8?ts
 http://st1.astra-uk.ru:81/65cfd2731bd5583d7ad92e31fc5d8769/playlist.m3u8
 #EXTINF:-1 ,Дом Кино Премиум HD
 https://sc.id-tv.kz/domkino_hd_34_35.m3u8
-#EXTINF:-1 ,Еврокино
-http://80.237.96.75:9090/stream/channelid/319476254?ticket=4B73AB0D3821E1A4B2DB9F8E85C69B247B1C95C8&profile=pass
-#EXTINF:-1 ,Еврокино
-http://80.237.96.73:9090/stream/channelid/319476254?ticket=320ACDDDA47FBB78A2B81823D438C0954C474380&profile=pass
-#EXTINF:-1 ,Еврокино
-http://80.237.96.73:9090/stream/channelid/319476254?ticket=3B27FE1CD2A2F714EE915C42CCF637487A6F364E&profile=pass
-#EXTINF:-1 ,Еврокино
-http://80.237.96.73:9090/stream/channelid/319476254?ticket=1393F1118D75411EA6463B82C9681D0F6E6D1BEC&profile=pass
-#EXTINF:-1 ,Иллюзион +
-http://80.237.96.75:9090/stream/channelid/994755755?ticket=289AB789E2E3702A8FCD49DCA561B5227234741F&profile=pass
-#EXTINF:-1 ,Иллюзион +
-http://80.237.96.73:9090/stream/channelid/994755755?ticket=C3F29DB1C0926D86B7715CC9520BCF8719A21E29&profile=pass
-#EXTINF:-1 ,Иллюзион +
-http://80.237.96.73:9090/stream/channelid/994755755?ticket=6BBDBAF31D092FCB3BAC5019C170E70BE1F1441C&profile=pass
-#EXTINF:-1 ,Иллюзион +
-http://80.237.96.73:9090/stream/channelid/994755755?ticket=0DB1CFC520DFFEB3E39098822F4572C5FBB3D168&profile=pass
 #EXTINF:-1 ,Иллюзион+
 http://st1.astra-uk.ru:81/8b8fd3cfff699c510117a009cebe97b9/playlist.m3u8
 #EXTINF:-1 ,Индийское Кино
 http://str1.tvcom.uz/67/video.m3u8?token=d14f8f0a6ae6dea981cdf7bebe199fa7
 #EXTINF:-1 ,ИНДИЙСКОЕ КИНО
-http://80.237.96.75:9090/stream/channelid/271986174?ticket=BB7E61CDC80F6B7A249DC0DE1D5AE8780CD6A9AA&profile=pass
-#EXTINF:-1 ,ИНДИЙСКОЕ КИНО
-http://80.237.96.73:9090/stream/channelid/271986174?ticket=3FC428FED0237D48612B54149215CD28548EFC4C&profile=pass
-#EXTINF:-1 ,ИНДИЙСКОЕ КИНО
-http://80.237.96.73:9090/stream/channelid/271986174?ticket=EF007CE10454870BC7DD2E5319A6CE78F894E881&profile=pass
-#EXTINF:-1 ,ИНДИЙСКОЕ КИНО
-http://80.237.96.73:9090/stream/channelid/271986174?ticket=5A9A19978239DF15AA3CF257AC0860DE386F998C&profile=pass
-#EXTINF:-1 ,ИНДИЙСКОЕ КИНО
 http://46.174.83.66/Indiiskoe_kino/index.m3u8
 #EXTINF:-1 ,Индия ТВ
 http://st1.astra-uk.ru:81/6b7cd444c664376274dbe167e57c2724/playlist.m3u8
-#EXTINF:-1 ,Кино 1 International
-https://autopilot.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 ,Кино 1 International
 http://autopilot.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 ,Кино 1 International
@@ -383,42 +219,16 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 https://v2.catcast.tv/videos/ch38847/240920201531_51154/video.mp4
 #EXTINF:-1 ,Кино ТВ
 http://st1.astra-uk.ru:81/4a4465277e04b28e57d10a290097d5d6/playlist.m3u8
-#EXTINF:-1 ,Кино ТВ HD
-http://80.237.96.75:9090/stream/channelid/1223919850?ticket=0B83DC1A6416298251F878266C8BA268C2844CA6&profile=pass
-#EXTINF:-1 ,Кино ТВ HD
-http://80.237.96.73:9090/stream/channelid/1223919850?ticket=40B7DE27D66D31B27692FD177C9EB073F253244D&profile=pass
-#EXTINF:-1 ,Кино ТВ HD
-http://80.237.96.73:9090/stream/channelid/1223919850?ticket=02EAC7C95589CFF01609FDE68F01E5A744CCA1EC&profile=pass
-#EXTINF:-1 ,Кино ТВ HD
-http://80.237.96.73:9090/stream/channelid/1223919850?ticket=2AD0A1F17620388FDC4C8BCB452CEA942E5A9284&profile=pass
-#EXTINF:-1 ,Кинокомедия
-http://146.158.0.56/KomediyaTV/mono.m3u8
 #EXTINF:-1 ,Кинокомедия
 http://46.174.83.66/Kinokomedia/index.m3u8
 #EXTINF:-1 ,Киномикс
 http://65.108.0.37:8080/valar/murguliss/13
 #EXTINF:-1 ,Киномикс
-http://ott.pizda.fun/kinomiks/mpegts?token=3eJuZKjWcPf943
-#EXTINF:-1 ,Киномикс
 http://st1.astra-uk.ru:81/4e31cb975e4e6f9bbe27c1aab2402ebf/playlist.m3u8?ts
 #EXTINF:-1 ,КИНОМИКС
 http://st1.astra-uk.ru:81/4e31cb975e4e6f9bbe27c1aab2402ebf/playlist.m3u8
-#EXTINF:-1 ,КИНОМИКС HD
-http://80.237.96.75:9090/stream/channelid/160240180?ticket=2D445669DD261601BB025D2CBE41C1151DF252FD&profile=pass
-#EXTINF:-1 ,КИНОМИКС HD
-http://80.237.96.73:9090/stream/channelid/160240180?ticket=481C22EC4702397229B26BBE4BD4CE6E89B71618&profile=pass
-#EXTINF:-1 ,КИНОМИКС HD
-http://80.237.96.73:9090/stream/channelid/160240180?ticket=A838EC351001BE22DE61A61D77A0064F05C38E65&profile=pass
-#EXTINF:-1 ,КИНОМИКС HD
-http://80.237.96.73:9090/stream/channelid/160240180?ticket=F47ACE4854DED926C49C0EB6DAB26EB5B1F0E1EB&profile=pass
-#EXTINF:-1 ,Кинопказ YHD
-http://ott.pizda.fun/kinopokaz_hd/mpegts?token=3eJuZKjWcPf943
-#EXTINF:-1 ,Кинопоказ
-http://ott.pizda.fun/kinopokaz/mpegts?token=3eJuZKjWcPf943
 #EXTINF:-1 ,Кинопоказ
 http://str1.tvcom.uz/64/video.m3u8?token=d14f8f0a6ae6dea981cdf7bebe199fa7
-#EXTINF:-1 ,Кинопремьера HD
-http://ott.pizda.fun/kinopremierahd/mpegts?token=3eJuZKjWcPf943
 #EXTINF:-1 ,Кинопремьера HD
 http://st1.astra-uk.ru:81/8335ed4599bdb1bddf4bfd7ea8f8b401/playlist.m3u8
 #EXTINF:-1 ,КИНОПРЕМЬЕРА HD
@@ -427,42 +237,22 @@ https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
 http://str1.tvcom.uz/72/video.m3u8?token=d14f8f0a6ae6dea981cdf7bebe199fa7
 #EXTINF:-1 ,Киносвидание
 http://st1.astra-uk.ru:81/543288f92b88aa590447b2d76425552c/playlist.m3u8
-#EXTINF:-1 ,Киносвидание
-http://ott.pizda.fun/kinosvidanie/mpegts?token=3eJuZKjWcPf943
-#EXTINF:-1 ,КИНОСВИДАНИЕ
-http://94.154.83.88:10000/kinosvidanie
 #EXTINF:-1 ,КИНОСВИДАНИЕ HD
 https://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
 #EXTINF:-1 ,Киносемья
 http://st1.astra-uk.ru:81/2fbefac710a67d4bcebb3810f6702a83/playlist.m3u8
-#EXTINF:-1 ,Киносемья
-http://ott.pizda.fun/kinosemya/mpegts?token=3eJuZKjWcPf943
 #EXTINF:-1 ,КИНОСЕМЬЯ HD
 https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
-#EXTINF:-1 ,Киносерия
-http://ott.pizda.fun/kinoseria/mpegts?token=3eJuZKjWcPf943
 #EXTINF:-1 ,Киносерия
 http://st1.astra-uk.ru:81/3300cbc9af590772bae4cbaa47a03a68/playlist.m3u8?ts
 #EXTINF:-1 ,КИНОСЕРИЯ
 http://st1.astra-uk.ru:81/3300cbc9af590772bae4cbaa47a03a68/playlist.m3u8
 #EXTINF:-1 ,Киноужас
 http://st1.astra-uk.ru:81/ed478bcc209efa76884aa03e6eb2e089/playlist.m3u8
-#EXTINF:-1 ,Киноужас
-http://ott.pizda.fun/kinouzhas/mpegts?token=3eJuZKjWcPf943
 #EXTINF:-1 ,Кинохит
 http://str1.tvcom.uz/62/video.m3u8?token=d14f8f0a6ae6dea981cdf7bebe199fa7
 #EXTINF:-1 ,Кинохит
 http://st1.astra-uk.ru:81/fd3504e71b0da4b572c6942d915a1f5d/playlist.m3u8
-#EXTINF:-1 ,Ккинокомедия
-http://ott.pizda.fun/kinokomedia/mpegts?token=3eJuZKjWcPf943
-#EXTINF:-1 ,Комедия
-http://80.237.96.75:9090/stream/channelid/425742231?ticket=665F42129C1CC753812A24B5B850D36F655AAEB2&profile=pass
-#EXTINF:-1 ,Комедия
-http://80.237.96.73:9090/stream/channelid/425742231?ticket=361804258EB7A9B9D37AB64CF489124AE64D9CE5&profile=pass
-#EXTINF:-1 ,Комедия
-http://80.237.96.73:9090/stream/channelid/425742231?ticket=F4D10F9F958A7E4BEA15025543866D3713F41842&profile=pass
-#EXTINF:-1 ,Комедия
-http://80.237.96.73:9090/stream/channelid/425742231?ticket=AFAA25C6D03AF30A2AE4BF750E6E4BABBE142201&profile=pass
 #EXTINF:-1 ,Комедия
 http://st1.astra-uk.ru:81/386ed911efb01c5dcdc9a0f85b7e92c7/playlist.m3u8
 #EXTINF:-1 ,Красная линия
@@ -473,60 +263,16 @@ http://dmitry-tv.ml/hls/CH_REDLINE.m3u8
 http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
 #EXTINF:-1 ,КРАСНАЯ ЛИНИЯ
 http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
-#EXTINF:-1 ,Любимое кино
-http://80.237.96.75:9090/stream/channelid/1558842518?ticket=D673AE9FC5E4D4D0AE17938BCC3AC7C9CC81E0A1&profile=pass
-#EXTINF:-1 ,Любимое кино
-http://80.237.96.73:9090/stream/channelid/1558842518?ticket=BF4A77E13AA5A018F0C7C8D0CE1EDE739A2624BB&profile=pass
-#EXTINF:-1 ,Любимое кино
-http://80.237.96.73:9090/stream/channelid/1558842518?ticket=243B33A2FB52DCD3F1F88E78F01715CA49BEEFB0&profile=pass
-#EXTINF:-1 ,Любимое кино
-http://80.237.96.73:9090/stream/channelid/1558842518?ticket=02643FAE0D535A6C831D3309A0E40FA090E09A13&profile=pass
 #EXTINF:-1 ,Любимое Кино
 http://st1.astra-uk.ru:81/b09e05f76ebb048b9aaf840054f667b6/playlist.m3u8
-#EXTINF:-1 ,Малдер ТВ Ужасы
-https://v2.catcast.tv/content/41023/index.m3u8
 #EXTINF:-1 ,Мир сериала
 http://st1.astra-uk.ru:81/5f8fc76a0eff01698b55718a1fd63fb5/playlist.m3u8
-#EXTINF:-1 ,Мир Сериала
-http://80.237.96.75:9090/stream/channelid/1498068555?ticket=F11B4491584159E87830F1A14ABA3246B40E8D98&profile=pass
-#EXTINF:-1 ,Мир Сериала
-http://80.237.96.73:9090/stream/channelid/1498068555?ticket=F291CB58852A102132C647D176BCBEBF845DC0CB&profile=pass
-#EXTINF:-1 ,Мир Сериала
-http://80.237.96.73:9090/stream/channelid/1498068555?ticket=DC7DF8132926750CB6C8B0C43E9F9D3A58EFDD5E&profile=pass
-#EXTINF:-1 ,Мир Сериала
-http://80.237.96.73:9090/stream/channelid/1498068555?ticket=738EC9C693E9472A58EF368F32CA1A29F298C630&profile=pass
-#EXTINF:-1 ,МОСФИЛМ
-http://80.237.96.66:9090/stream/channelid/1656739852?ticket=F791B18BC9A532F56007FC4C00678C9417589133&profile=pass
-#EXTINF:-1 ,Мосфильм
-http://80.237.96.75:9090/stream/channelid/1656739852?ticket=1F6911751AF44DDF2441476AA512251881A03D8C&profile=pass
-#EXTINF:-1 ,Мосфильм
-http://80.237.96.73:9090/stream/channelid/1656739852?ticket=6B4E14E0C2E2C8F264AAB0B114BA1C6AE710A57B&profile=pass
-#EXTINF:-1 ,Мосфильм
-http://80.237.96.73:9090/stream/channelid/1656739852?ticket=FCCA2B85CD9C229AD5B6A26EC5060EFCA392AB2F&profile=pass
-#EXTINF:-1 ,Мосфильм
-http://80.237.96.73:9090/stream/channelid/1656739852?ticket=F4FD3AD04A0C8065FFBFC4A34122A14D766730B1&profile=pass
 #EXTINF:-1 ,Мужское кино
 http://st1.astra-uk.ru:81/78739d23a671640e943c8fd484686f55/playlist.m3u8
-#EXTINF:-1 ,МУЖСКОЕ КИНО HD
-http://80.237.96.75:9090/stream/channelid/598776225?ticket=088ACF425A57E3B6304BCB6865036A1C4A1D401C&profile=pass
-#EXTINF:-1 ,МУЖСКОЕ КИНО HD
-http://80.237.96.73:9090/stream/channelid/598776225?ticket=ECFF71344543CE06645606F09A7C1D1207FD9CCD&profile=pass
-#EXTINF:-1 ,МУЖСКОЕ КИНО HD
-http://80.237.96.73:9090/stream/channelid/598776225?ticket=ADF423E090EA3ED31DB54E8265D9B57890BCE8DF&profile=pass
-#EXTINF:-1 ,МУЖСКОЕ КИНО HD
-http://80.237.96.73:9090/stream/channelid/598776225?ticket=EBC1BB1DF7358F8C132F74CC0B625EAD9BD5B34D&profile=pass
 #EXTINF:-1 ,МУЖСКОЕ КИНО HD
 https://sc.id-tv.kz/Mujskoe_kino_hd_34_35.m3u8
 #EXTINF:-1 ,Настоящее Страшное ТВ
 http://st1.astra-uk.ru:81/4fb343d458d759036f784b814509c173/playlist.m3u8
-#EXTINF:-1 ,Наше новое кино
-http://80.237.96.75:9090/stream/channelid/1076409512?ticket=B1A3AC7E03585A3F7F3B429294F45577FD3ABC54&profile=pass
-#EXTINF:-1 ,Наше новое кино
-http://80.237.96.73:9090/stream/channelid/1076409512?ticket=8579BBC2D7E3A94A2E52B398C0A90EC576554D17&profile=pass
-#EXTINF:-1 ,Наше новое кино
-http://80.237.96.73:9090/stream/channelid/1076409512?ticket=707037E07974180B0B426FFA8DA39B4F51A7AE67&profile=pass
-#EXTINF:-1 ,Наше новое кино
-http://80.237.96.73:9090/stream/channelid/1076409512?ticket=8E2440A779469ADC266D7087263AD644D6FEC4A2&profile=pass
 #EXTINF:-1 ,Наше Новое Кино
 http://str1.tvcom.uz/55/video.m3u8?token=d14f8f0a6ae6dea981cdf7bebe199fa7
 #EXTINF:-1 ,Новогодний Канал HD
@@ -537,34 +283,6 @@ http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
 https://sc.id-tv.kz/NSTV_34_35.m3u8
 #EXTINF:-1 ,NTV МИР
 http://109.200.130.123:7028/play/327
-#EXTINF:-1 ,NTV Право
-http://80.237.96.75:9090/stream/channelid/751572667?ticket=FF434D98CAB58FF6E5794BE995AE683E248C5542&profile=pass
-#EXTINF:-1 ,NTV Право
-http://80.237.96.73:9090/stream/channelid/751572667?ticket=AA6C46B9BD54F537712FCCA1F9736687BBEC030F&profile=pass
-#EXTINF:-1 ,NTV Право
-http://80.237.96.73:9090/stream/channelid/751572667?ticket=D9296BE80FC046A7CF1E86B811BAEBCBA9A96D07&profile=pass
-#EXTINF:-1 ,NTV Право
-http://80.237.96.73:9090/stream/channelid/751572667?ticket=78F4CBD604D6F6C1AA6A38C3261E9FEC05CF6B44&profile=pass
-#EXTINF:-1 ,NTV Сериал
-http://80.237.96.75:9090/stream/channelid/1223388163?ticket=E36AE6765FE4E15CE7EC5D8B3E2348A4198696D2&profile=pass
-#EXTINF:-1 ,NTV Сериал
-http://80.237.96.73:9090/stream/channelid/1223388163?ticket=775FE6EEBCEA285FFF0DF14584D561FF0002D405&profile=pass
-#EXTINF:-1 ,NTV Сериал
-http://80.237.96.73:9090/stream/channelid/1223388163?ticket=43553B01E85E6919B90338CB66236CEDF260CE39&profile=pass
-#EXTINF:-1 ,NTV Сериал
-http://80.237.96.73:9090/stream/channelid/1223388163?ticket=15C625793AD701CFB2CDBEA83D92E514789D5FB4&profile=pass
-#EXTINF:-1 group-title="Кино",NTV Сериал
-http://80.237.96.66:9090/stream/channelid/1223388163?ticket=03E0F244343C45AB8FFD7C85277A3C6258C15AD7&profile=pass
-#EXTINF:-1 ,NTV Хит
-http://80.237.96.75:9090/stream/channelid/355332936?ticket=4F70F0146A6B3CDED6EF6A2CC1BD3315EB19859D&profile=pass
-#EXTINF:-1 ,NTV Хит
-http://80.237.96.73:9090/stream/channelid/355332936?ticket=03C17B3C203C38A7122D48E8872D0B3B255632AE&profile=pass
-#EXTINF:-1 ,NTV Хит
-http://80.237.96.73:9090/stream/channelid/355332936?ticket=AF835D87A580251B59D205E7AF36CD42E41656CF&profile=pass
-#EXTINF:-1 ,NTV Хит
-http://80.237.96.73:9090/stream/channelid/355332936?ticket=3BF6C5E18C7DDFD1618F8DA9B7B54A87B4AA6441&profile=pass
-#EXTINF:-1 group-title="Кино",NTV Хит
-http://80.237.96.66:9090/stream/channelid/355332936?ticket=04F16AB001A9117153B2962DD656A6E6B712181E&profile=pass
 #EXTINF:-1 ,NTV-Мир
 https://sc.id-tv.kz:443/NTV_34_35.m3u8
 #EXTINF:-1 ,Оплoт 2 HD
@@ -573,12 +291,6 @@ http://ott.inmart.tv:8081/17/index.m3u8?telegramm=yossotv
 http://ott.inmart.tv:8081/17/index.m3u8
 #EXTINF:-1 ,ПАМЯТЬ
 https://v2.catcast.tv/content/38821/index.m3u8?881251085388
-#EXTINF:-1 ,Память ТВ
-https://autopilot.catcast.tv/content/38821/index.m3u8
-#EXTINF:-1 ,Победа
-http://185.184.233.180:5000/udp/225.1.2.72:1234
-#EXTINF:-1 ,Победа
-http://ott.pizda.fun/pobeda/mpegts?token=3eJuZKjWcPf943
 #EXTINF:-1 ,ПОБЕДА
 https://sc.id-tv.kz/Pobeda_36_37.m3u8
 #EXTINF:-1 ,ПОБЕДА
@@ -592,71 +304,23 @@ http://str1.tvcom.uz/51/video.m3u8?token=d14f8f0a6ae6dea981cdf7bebe199fa7
 #EXTINF:-1 ,Родное кино
 http://st1.astra-uk.ru:81/a4a6d63fa53181442acd1ae8bb277980/playlist.m3u8
 #EXTINF:-1 ,Родное Кино
-http://80.237.96.75:9090/stream/channelid/1006623136?ticket=FB4C4E4E16AD616F6197D09E80B2AAF5FD30B6F3&profile=pass
-#EXTINF:-1 ,Родное Кино
-http://80.237.96.73:9090/stream/channelid/1006623136?ticket=8E3D9C211EA7A6D2C97C2FAAE99C86F4BAA96DF9&profile=pass
-#EXTINF:-1 ,Родное Кино
-http://80.237.96.73:9090/stream/channelid/1006623136?ticket=3AA28865418697E51014D99D79BDABE9B1942A63&profile=pass
-#EXTINF:-1 ,Родное Кино
-http://80.237.96.73:9090/stream/channelid/1006623136?ticket=D87246495E47B18DC7844458F47D60A625F660E7&profile=pass
-#EXTINF:-1 ,Родное Кино
 http://str1.tvcom.uz/56/video.m3u8?token=d14f8f0a6ae6dea981cdf7bebe199fa7
 #EXTINF:-1 ,Российские Сериалы
 http://140.238.127.147/streams/9.m3u8
 #EXTINF:-1 ,Русский бестселлер
 http://st1.astra-uk.ru:81/cd59211874cc4acb0dbae03a7f5b5fbe/playlist.m3u8
 #EXTINF:-1 ,Русский Бестселлер
-http://80.237.96.75:9090/stream/channelid/1756294937?ticket=B97C23A1DD122B1064206BFA5F2BB24445CEEBDC&profile=pass
-#EXTINF:-1 ,Русский Бестселлер
-http://80.237.96.73:9090/stream/channelid/1756294937?ticket=5B7B6FC006F38B8A46E25A768F6CF579E2B2D656&profile=pass
-#EXTINF:-1 ,Русский Бестселлер
-http://80.237.96.73:9090/stream/channelid/1756294937?ticket=033B049A74D6518B0551D6BBBA9405A783E5D02F&profile=pass
-#EXTINF:-1 ,Русский Бестселлер
-http://80.237.96.73:9090/stream/channelid/1756294937?ticket=7AFB4B4520F4F6C16A38787A4B1E8C3D6F3F6E87&profile=pass
-#EXTINF:-1 ,Русский Бестселлер
-http://80.237.96.66:9090/stream/channelid/1756294937?ticket=7F7E886AADAFD515FCDF14D6121BC38BE12F0198&profile=pass
-#EXTINF:-1 ,Русский Бестселлер
 http://st1.astra-uk.ru:81/cd59211874cc4acb0dbae03a7f5b5fbe/playlist.m3u8?ts
 #EXTINF:-1 ,Русский детектив
 http://st1.astra-uk.ru:81/af8898730d92ba60aa3f1835e7853533/playlist.m3u8
-#EXTINF:-1 ,Русский Детектив
-http://80.237.96.75:9090/stream/channelid/1064489643?ticket=399F939FD5863D123E2CD5710FDD9B8622C68D31&profile=pass
-#EXTINF:-1 ,Русский Детектив
-http://80.237.96.73:9090/stream/channelid/1064489643?ticket=110AB8B588E27511D3EFB8265241738E90D5F7B7&profile=pass
-#EXTINF:-1 ,Русский Детектив
-http://80.237.96.73:9090/stream/channelid/1064489643?ticket=86D2C1D3B66CDE0C731B5AD892599F5F337329EB&profile=pass
-#EXTINF:-1 ,Русский Детектив
-http://80.237.96.73:9090/stream/channelid/1064489643?ticket=11CA8E1C9A52B35103EF8358C536121EC3293E75&profile=pass
-#EXTINF:-1 ,Русский Детектив
-http://80.237.96.66:9090/stream/channelid/1064489643?ticket=3113124FEB90C0DDFE8AA43FD46B241955B76D0A&profile=pass
 #EXTINF:-1 ,Русский Детектив
 http://st1.astra-uk.ru:81/af8898730d92ba60aa3f1835e7853533/playlist.m3u8?ts
 #EXTINF:-1 ,Русский иллюзион
 http://46.174.83.66/Illusion+/mpegts
 #EXTINF:-1 ,Русский Иллюзион
-http://80.237.96.75:9090/stream/channelid/433548834?ticket=2D9B0D32A2F04E75D52620740DD437076BFF9DA1&profile=pass
-#EXTINF:-1 ,Русский Иллюзион
-http://80.237.96.73:9090/stream/channelid/433548834?ticket=18F490BCBDA29A8F69F52DC60C6DEB0574EA3352&profile=pass
-#EXTINF:-1 ,Русский Иллюзион
-http://80.237.96.73:9090/stream/channelid/433548834?ticket=5327B66A8E68403C10D15AA21A28AFFC21163532&profile=pass
-#EXTINF:-1 ,Русский Иллюзион
-http://80.237.96.73:9090/stream/channelid/433548834?ticket=4D41A33CE83E2D9682797814DC04985B942F87F6&profile=pass
-#EXTINF:-1 ,Русский Иллюзион
-http://80.237.96.66:9090/stream/channelid/433548834?ticket=EE3D6FE6EECAAB2E9FFD1785208B8A4ECF8F7A49&profile=pass
-#EXTINF:-1 ,Русский Иллюзион
 http://st1.astra-uk.ru:81/bdeaad976cca377171dccc50702c37e1/playlist.m3u8
 #EXTINF:-1 ,Русский роман
 http://st1.astra-uk.ru:81/ca696d582f4f88493181e81e51a50960/playlist.m3u8
-#EXTINF:-1 ,Русский Роман
-http://80.237.96.75:9090/stream/channelid/1239672746?ticket=309F7AB310F40E0AB62F29AE299DFA0749AA47AC&profile=pass
-#EXTINF:-1 ,Русский Роман
-http://80.237.96.73:9090/stream/channelid/1239672746?ticket=71EA6B13B128D3800E3B4A58F0E4AD4C427438E5&profile=pass
-#EXTINF:-1 ,Русский Роман
-http://80.237.96.73:9090/stream/channelid/1239672746?ticket=89EE92EE01F31A1DB83E524AA563E85FF2322B0D&profile=pass
-#EXTINF:-1 ,Русский Роман
-http://80.237.96.73:9090/stream/channelid/1239672746?ticket=BD9A0C0AA5CF17475D92D06DFF09D0AFEB9D1868&profile=pass
-#EXTINF:-1 ,Русский Роман
-http://80.237.96.66:9090/stream/channelid/1239672746?ticket=7D06B8A1C9589FF0ECA5A1ADA1B729E79D91F1E8&profile=pass
 #EXTINF:-1 ,Русский Роман
 http://st1.astra-uk.ru:81/ca696d582f4f88493181e81e51a50960/playlist.m3u8?ts
 #EXTINF:-1 ,Русское Кино TV1000
@@ -689,26 +353,14 @@ http://bl.uma.media/live/407373/HLS/6307840_7/2/1/playlist.m3u8
 http://st1.astra-uk.ru:81/ec6a7c8d6ca0b28590c38602cfc0e99d/playlist.m3u8
 #EXTINF:-1 ,ТВ3
 http://bl.uma.media/live/317846/HLS/4614144_2,2883584/2/1/playlist.m3u8
-#EXTINF:-1 ,ТВ-3
-http://80.237.96.75:9090/stream/channelid/1185080911?ticket=DA30228C82DF82630DA945DFBDA664065BD841FB&profile=pass
-#EXTINF:-1 ,ТВ-3
-http://80.237.96.73:9090/stream/channelid/1185080911?ticket=AC174AFFE5DC6ADB3F9B40617D5D42D4B247DB33&profile=pass
-#EXTINF:-1 ,ТВ-3
-http://80.237.96.73:9090/stream/channelid/1185080911?ticket=D3C6AA3C0B0903F576DDF247C1EB243F6BA2EEF8&profile=pass
-#EXTINF:-1 ,ТВ-3
-http://80.237.96.73:9090/stream/channelid/1185080911?ticket=08F6978EAC477C210F7ACCBF09CC9750DFB1F88C&profile=pass
 #EXTINF:-1 ,ТВ3 HD
 https://bl.uma.media/live/407373/HLS/6307840_7/2/1/playlist.m3u8
 #EXTINF:-1 ,ТВ3 HD
 http://bl.uma.media/live/407373/HLS/6307840_7,4280320/2/1/playlist.m3u8
 #EXTINF:-1 ,ТЕХНО 24
 https://sc.id-tv.kz:443/Tehno24_34_35.m3u8
-#EXTINF:-1 ,Ужас ТВ
-https://v2.catcast.tv/content/41000/index.m3u8
 #EXTINF:-1 ,УЖАСТИК
 http://v2.catcast.tv/content/38896/index.m3u8
-#EXTINF:-1 ,ФАНТАСТИКА
-https://autopilot.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1 ,ФАНТАСТИКА
 http://v2.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1 ,ФАНТАСТИКА HD
@@ -719,5 +371,3 @@ https://hls.goodgame.ru/hls/187241.m3u8
 http://hls.goodgame.ru/hls/187241.m3u8
 #EXTINF:-1 ,ФИЛЬМЫ И СЕРИАЛЫ TNK /ХИТ HD/
 http://hlss.goodgame.ru/hls/153640.m3u8
-#EXTINF:-1 ,ХИТ HD
-http://ott.pizda.fun/Hit_HD/mpegts?token=3eJuZKjWcPf943
