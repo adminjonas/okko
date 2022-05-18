@@ -3,30 +3,12 @@
 
 #EXTINF:-1 ,Action TV 1000
 http://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 ,.black
-http://st1.astra-uk.ru:81/cc719f0f30037279d03bf2fd542a8088/playlist.m3u8
-#EXTINF:-1 ,Amedia 1
-http://st1.astra-uk.ru:81/763950971c8c6d8df8a87a1e752799a9/playlist.m3u8?ts
-#EXTINF:-1 ,Amedia 1
-http://st1.astra-uk.ru:81/763950971c8c6d8df8a87a1e752799a9/playlist.m3u8
-#EXTINF:-1 ,Amedia 2
-http://st1.astra-uk.ru:81/1597a5a9948014489de663c8fb4438db/playlist.m3u8
-#EXTINF:-1 ,Amedia 2
-http://st1.astra-uk.ru:81/1597a5a9948014489de663c8fb4438db/playlist.m3u8?ts
 #EXTINF:-1 ,Amedia 2
 https://sc.id-tv.kz/A2_36_37.m3u8
-#EXTINF:-1 ,Amedia Hit
-http://st1.astra-uk.ru:81/0eb5fb21bfa6734a7347087a6fb20fd4/playlist.m3u8
-#EXTINF:-1 ,Amedia Hit
-http://st1.astra-uk.ru:81/0eb5fb21bfa6734a7347087a6fb20fd4/playlist.m3u8?ts
 #EXTINF:-1 ,Amedia Hit hd
 https://sc.id-tv.kz/amedia_hit_hd.m3u8
 #EXTINF:-1 ,amedia pr hd
 https://sc.id-tv.kz/amedia_pr_hd_34_35.m3u8
-#EXTINF:-1 ,Amedia Premium
-http://st1.astra-uk.ru:81/d1ef78458e2a8129f4c34a9dd9375843/playlist.m3u8
-#EXTINF:-1 ,Amedia Premium HD
-http://st1.astra-uk.ru:81/22773eeb20de8c8bdf0fd5580190356b/playlist.m3u8
 #EXTINF:-1 ,Amedia Premium HD
 https://sc.id-tv.kz/amedia_pr_hd.m3u8
 #EXTINF:-1 ,BACKUS TV dark
@@ -50,8 +32,6 @@ http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 ,BACKUSTV ORIGINAL
 http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 ,Bollywood HD
-http://st1.astra-uk.ru:81/bbe710524ff563d5a62a3ab4f8a5b757/playlist.m3u8
-#EXTINF:-1 ,Bollywood HD
 https://sc.id-tv.kz/bollywood_hd.m3u8
 #EXTINF:-1 ,Cinema
 https://sc.id-tv.kz/Cinema_36_37.m3u8
@@ -71,26 +51,16 @@ http://94.230.240.17:8080/film_box/index.m3u8
 http://185.44.75.203:38171/play/a02t/index.m3u8
 #EXTINF:-1 ,FMC
 https://hls.goodgame.ru/hls/187741.m3u8
-#EXTINF:-1 ,Fox
-http://st1.astra-uk.ru:81/475b45b6b3531765210a51ec138af816/playlist.m3u8
-#EXTINF:-1 ,Fox HD
-http://st1.astra-uk.ru:81/c641ce168432ef9b0642e5465324c4fe/playlist.m3u8
 #EXTINF:-1 ,Fox HD
 https://sc.id-tv.kz/FOX_HD_34_35.m3u8
 #EXTINF:-1 ,FOX HD
 http://185.44.75.203:38171/play/a00l/index.m3u8
-#EXTINF:-1 ,Fox Life
-http://st1.astra-uk.ru:81/482e067470b9b50cc306fc4cada1b0a3/playlist.m3u8
 #EXTINF:-1 ,FOX_HD
 https://sc.id-tv.kz/FOX_HD.m3u8
-#EXTINF:-1 ,Hollywood
-http://st1.astra-uk.ru:81/669f0f295de83119a18bfe299a96dbdb/playlist.m3u8
 #EXTINF:-1 ,Hollywood
 https://sc.id-tv.kz/Hollywood_34_35.m3u8
 #EXTINF:-1 ,Hollywood
 https://sc.id-tv.kz/Hollywood.m3u8
-#EXTINF:-1 ,Hollywood HD
-http://st1.astra-uk.ru:81/a471ae87fe4b321577237452a7f8cf50/playlist.m3u8
 #EXTINF:-1 ,Illusion+
 http://46.174.83.66/Illusion+/index.m3u8?em9uYS1pcHR2LnJ1
 #EXTINF:-1 ,Indiiskoe_kino
@@ -109,38 +79,22 @@ https://sc.id-tv.kz:443/Kinouzhas_hd_34_35.m3u8
 https://hls.goodgame.ru/hls/153640.m3u8
 #EXTINF:-1 ,MKTV ХИТ HD
 https://hlss.goodgame.ru/hls/153640.m3u8
-#EXTINF:-1 ,Paramount Comedy
-http://st1.astra-uk.ru:81/f2bb83588a99a3902021c7e4f455652f/playlist.m3u8
 #EXTINF:-1 ,perv-balt-in
 http://185.44.75.203:38171/play/a00w/index.m3u8
 #EXTINF:-1 ,PRO100 TV
 http://85.192.10.131/hls/Pro100tvRu/playlist.m3u8
 #EXTINF:-1 ,Retro
 http://46.174.83.66/Retro/index.m3u8?em9uYS1pcHR2LnJ1
-#EXTINF:-1 ,Sci-Fi
-http://st1.astra-uk.ru:81/4a5d4b8543f34cadc7eb9ea8fcbf88a0/playlist.m3u8
-#EXTINF:-1 ,Sony Channel Russia
-http://st1.astra-uk.ru:81/5c7fde5aefd10ef596744fd56685005b/playlist.m3u8
-#EXTINF:-1 ,Sony Sci-Fi
-http://st1.astra-uk.ru:81/4a5d4b8543f34cadc7eb9ea8fcbf88a0/playlist.m3u8?ts
-#EXTINF:-1 ,Sony Turbo
-http://st1.astra-uk.ru:81/cc719f0f30037279d03bf2fd542a8088/playlist.m3u8?ts
 #EXTINF:-1 ,Subbota
 http://46.174.83.66/Subbota/mpegts
 #EXTINF:-1 ,TV 1000
 https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,TV 1000
-http://st1.astra-uk.ru:81/d9a7a9f709ca8530b1547e7cead8f1dd/playlist.m3u8
-#EXTINF:-1 ,TV 1000
 http://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,TV 1000 Action
 https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 ,TV 1000 Action
-http://st1.astra-uk.ru:81/98eef914c03e80b0e49807a177415ffc/playlist.m3u8
 #EXTINF:-1 ,TV 1000 Русское кино
 https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 ,TV 1000 Русское Кино
-http://st1.astra-uk.ru:81/4bad64e7a245802f7b36d7a6d885aac3/playlist.m3u8
 #EXTINF:-1 ,TV 3
 http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
 #EXTINF:-1 ,TV1000
@@ -157,104 +111,56 @@ http://46.174.83.66/TV3/index.m3u8?em9uYS1pcHR2LnJ1
 http://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,VIP Comedy
 https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 ,VIP Comedy
-http://st1.astra-uk.ru:81/02e12402a06c27f66a9a083799f21d0d/playlist.m3u8
 #EXTINF:-1 ,VIP Megahit
 https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,VIP MEGAHIT
 http://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,VIP Premiere
 https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 ,VIP Premiere
-http://st1.astra-uk.ru:81/8bb468f1962686f6f2f32317923bc883/playlist.m3u8
 #EXTINF:-1 ,VIP PREMIERE
 http://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 ,VIP premiere HD
-http://65.108.0.37:8080/valar/murguliss/11
 #EXTINF:-1 ,VIP Serial
 https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,VIP Serial
 http://94.229.250.73:8008/play/a003
 #EXTINF:-1 ,VIP SERIAL
 http://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 ,VIP serial HD
-http://65.108.0.37:8080/valar/murguliss/26
-#EXTINF:-1 ,Zee /Индийское Кино/
-http://st1.astra-uk.ru:81/29cd7631af2bc372546584478ce43acf/playlist.m3u8?ts
-#EXTINF:-1 ,Zee TV
-http://st1.astra-uk.ru:81/29cd7631af2bc372546584478ce43acf/playlist.m3u8
 #EXTINF:-1 ,Zee TV
 https://sc.id-tv.kz/ZeeTVHD_34_35.m3u8
 #EXTINF:-1 ,Волга HD
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
 #EXTINF:-1 ,Время
-http://st1.astra-uk.ru:81/1c56619dfb1f30407273d31bce1ec553/playlist.m3u8
-#EXTINF:-1 ,Время
 https://sc.id-tv.kz:443/Vremya_36_37.m3u8?token=iptv.org.ua
-#EXTINF:-1 ,Дом кино
-http://st1.astra-uk.ru:81/7bfe4cf6278ff80748c9d021cf7144d8/playlist.m3u8
 #EXTINF:-1 ,Дом Кино
 http://str1.tvcom.uz/61/video.m3u8?token=d14f8f0a6ae6dea981cdf7bebe199fa7
 #EXTINF:-1 ,Дом Кино
 https://sc.id-tv.kz:443/DomKino_36_37.m3u8
-#EXTINF:-1 ,ДОМ КИНО
-http://st1.astra-uk.ru:81/7bfe4cf6278ff80748c9d021cf7144d8/playlist.m3u8?ts
-#EXTINF:-1 ,Дом Кино Премиум HD
-http://st1.astra-uk.ru:81/65cfd2731bd5583d7ad92e31fc5d8769/playlist.m3u8
 #EXTINF:-1 ,Дом Кино Премиум HD
 https://sc.id-tv.kz/domkino_hd_34_35.m3u8
-#EXTINF:-1 ,Иллюзион+
-http://st1.astra-uk.ru:81/8b8fd3cfff699c510117a009cebe97b9/playlist.m3u8
 #EXTINF:-1 ,Индийское Кино
 http://str1.tvcom.uz/67/video.m3u8?token=d14f8f0a6ae6dea981cdf7bebe199fa7
 #EXTINF:-1 ,ИНДИЙСКОЕ КИНО
 http://46.174.83.66/Indiiskoe_kino/index.m3u8
-#EXTINF:-1 ,Индия ТВ
-http://st1.astra-uk.ru:81/6b7cd444c664376274dbe167e57c2724/playlist.m3u8
 #EXTINF:-1 ,Кино 1 International
 http://autopilot.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 ,Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 ,Кино- Спальный вагон
 https://v2.catcast.tv/videos/ch38847/240920201531_51154/video.mp4
-#EXTINF:-1 ,Кино ТВ
-http://st1.astra-uk.ru:81/4a4465277e04b28e57d10a290097d5d6/playlist.m3u8
 #EXTINF:-1 ,Кинокомедия
 http://46.174.83.66/Kinokomedia/index.m3u8
-#EXTINF:-1 ,Киномикс
-http://65.108.0.37:8080/valar/murguliss/13
-#EXTINF:-1 ,Киномикс
-http://st1.astra-uk.ru:81/4e31cb975e4e6f9bbe27c1aab2402ebf/playlist.m3u8?ts
-#EXTINF:-1 ,КИНОМИКС
-http://st1.astra-uk.ru:81/4e31cb975e4e6f9bbe27c1aab2402ebf/playlist.m3u8
 #EXTINF:-1 ,Кинопоказ
 http://str1.tvcom.uz/64/video.m3u8?token=d14f8f0a6ae6dea981cdf7bebe199fa7
-#EXTINF:-1 ,Кинопремьера HD
-http://st1.astra-uk.ru:81/8335ed4599bdb1bddf4bfd7ea8f8b401/playlist.m3u8
 #EXTINF:-1 ,КИНОПРЕМЬЕРА HD
 https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
 #EXTINF:-1 ,Киносвидание
 http://str1.tvcom.uz/72/video.m3u8?token=d14f8f0a6ae6dea981cdf7bebe199fa7
-#EXTINF:-1 ,Киносвидание
-http://st1.astra-uk.ru:81/543288f92b88aa590447b2d76425552c/playlist.m3u8
 #EXTINF:-1 ,КИНОСВИДАНИЕ HD
 https://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
-#EXTINF:-1 ,Киносемья
-http://st1.astra-uk.ru:81/2fbefac710a67d4bcebb3810f6702a83/playlist.m3u8
 #EXTINF:-1 ,КИНОСЕМЬЯ HD
 https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
-#EXTINF:-1 ,Киносерия
-http://st1.astra-uk.ru:81/3300cbc9af590772bae4cbaa47a03a68/playlist.m3u8?ts
-#EXTINF:-1 ,КИНОСЕРИЯ
-http://st1.astra-uk.ru:81/3300cbc9af590772bae4cbaa47a03a68/playlist.m3u8
-#EXTINF:-1 ,Киноужас
-http://st1.astra-uk.ru:81/ed478bcc209efa76884aa03e6eb2e089/playlist.m3u8
 #EXTINF:-1 ,Кинохит
 http://str1.tvcom.uz/62/video.m3u8?token=d14f8f0a6ae6dea981cdf7bebe199fa7
-#EXTINF:-1 ,Кинохит
-http://st1.astra-uk.ru:81/fd3504e71b0da4b572c6942d915a1f5d/playlist.m3u8
-#EXTINF:-1 ,Комедия
-http://st1.astra-uk.ru:81/386ed911efb01c5dcdc9a0f85b7e92c7/playlist.m3u8
 #EXTINF:-1 ,Красная линия
 https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
 #EXTINF:-1 ,Красная линия
@@ -263,16 +169,8 @@ http://dmitry-tv.ml/hls/CH_REDLINE.m3u8
 http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
 #EXTINF:-1 ,КРАСНАЯ ЛИНИЯ
 http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
-#EXTINF:-1 ,Любимое Кино
-http://st1.astra-uk.ru:81/b09e05f76ebb048b9aaf840054f667b6/playlist.m3u8
-#EXTINF:-1 ,Мир сериала
-http://st1.astra-uk.ru:81/5f8fc76a0eff01698b55718a1fd63fb5/playlist.m3u8
-#EXTINF:-1 ,Мужское кино
-http://st1.astra-uk.ru:81/78739d23a671640e943c8fd484686f55/playlist.m3u8
 #EXTINF:-1 ,МУЖСКОЕ КИНО HD
 https://sc.id-tv.kz/Mujskoe_kino_hd_34_35.m3u8
-#EXTINF:-1 ,Настоящее Страшное ТВ
-http://st1.astra-uk.ru:81/4fb343d458d759036f784b814509c173/playlist.m3u8
 #EXTINF:-1 ,Наше Новое Кино
 http://str1.tvcom.uz/55/video.m3u8?token=d14f8f0a6ae6dea981cdf7bebe199fa7
 #EXTINF:-1 ,Новогодний Канал HD
@@ -301,36 +199,16 @@ http://46.174.83.66/Retro/index.m3u8
 http://46.174.83.66/Retro/mpegts
 #EXTINF:-1 ,Ретро ТВ
 http://str1.tvcom.uz/51/video.m3u8?token=d14f8f0a6ae6dea981cdf7bebe199fa7
-#EXTINF:-1 ,Родное кино
-http://st1.astra-uk.ru:81/a4a6d63fa53181442acd1ae8bb277980/playlist.m3u8
 #EXTINF:-1 ,Родное Кино
 http://str1.tvcom.uz/56/video.m3u8?token=d14f8f0a6ae6dea981cdf7bebe199fa7
 #EXTINF:-1 ,Российские Сериалы
 http://140.238.127.147/streams/9.m3u8
-#EXTINF:-1 ,Русский бестселлер
-http://st1.astra-uk.ru:81/cd59211874cc4acb0dbae03a7f5b5fbe/playlist.m3u8
-#EXTINF:-1 ,Русский Бестселлер
-http://st1.astra-uk.ru:81/cd59211874cc4acb0dbae03a7f5b5fbe/playlist.m3u8?ts
-#EXTINF:-1 ,Русский детектив
-http://st1.astra-uk.ru:81/af8898730d92ba60aa3f1835e7853533/playlist.m3u8
-#EXTINF:-1 ,Русский Детектив
-http://st1.astra-uk.ru:81/af8898730d92ba60aa3f1835e7853533/playlist.m3u8?ts
 #EXTINF:-1 ,Русский иллюзион
 http://46.174.83.66/Illusion+/mpegts
-#EXTINF:-1 ,Русский Иллюзион
-http://st1.astra-uk.ru:81/bdeaad976cca377171dccc50702c37e1/playlist.m3u8
-#EXTINF:-1 ,Русский роман
-http://st1.astra-uk.ru:81/ca696d582f4f88493181e81e51a50960/playlist.m3u8
-#EXTINF:-1 ,Русский Роман
-http://st1.astra-uk.ru:81/ca696d582f4f88493181e81e51a50960/playlist.m3u8?ts
 #EXTINF:-1 ,Русское Кино TV1000
 http://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,СОВЕТСКИЕ ФИЛЬМЫ
 https://cache-1.catcast.tv/content/38821/index.m3u8
-#EXTINF:-1 ,Суббота
-http://st1.astra-uk.ru:81/7bdab0c0008a0a1b29b79125e157142e/playlist.m3u8?ts.
-#EXTINF:-1 ,Суббота
-http://st1.astra-uk.ru:81/7bdab0c0008a0a1b29b79125e157142e/playlist.m3u8
 #EXTINF:-1 ,Суббота!
 https://bl.uma.media/live/317845/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,Суббота!
@@ -349,8 +227,6 @@ https://bl.uma.media/live/407373/HLS/6307840_7,4280320/2/1/playlist.m3u8
 https://bl.uma.media/live/317846/HLS/4614144_2,2883584/2/1/playlist.m3u8
 #EXTINF:-1 ,ТВ 3
 http://bl.uma.media/live/407373/HLS/6307840_7/2/1/playlist.m3u8
-#EXTINF:-1 ,ТВ3
-http://st1.astra-uk.ru:81/ec6a7c8d6ca0b28590c38602cfc0e99d/playlist.m3u8
 #EXTINF:-1 ,ТВ3
 http://bl.uma.media/live/317846/HLS/4614144_2,2883584/2/1/playlist.m3u8
 #EXTINF:-1 ,ТВ3 HD
